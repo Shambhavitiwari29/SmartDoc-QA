@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartDoc QA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>🤖 SmartDoc QA</h1>
+        <p>Ask questions from your PDF documents</p>
+
+        <div class="card">
+
+            <h3>Upload PDF</h3>
+
+            <input type="file" id="pdfFile">
+
+            <button onclick="uploadPDF()">
+                Upload
+            </button>
+
+            <p id="uploadStatus"></p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Ask Question</h3>
+
+            <textarea
+                id="question"
+                placeholder="Ask anything about the uploaded PDF..."
+            ></textarea>
+
+            <button onclick="askQuestion()">
+                Ask
+            </button>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Answer</h3>
+
+            <div id="answer">
+                Waiting for your question...
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

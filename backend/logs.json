@@ -1,0 +1,37 @@
+[
+    {
+        "question": "What is this document about?",
+        "answer": "Based on the context, this document appears to be a student's exam result or answer key from an entrepreneurship development examination (BTECH SEM VIII) in India. It contains marks, a roll number, subject code, and answers to various questions related to entrepreneurship development.",
+        "timestamp": "2026-05-30 17:08:38.955398"
+    },
+    {
+        "question": "tell me the technical qualifications",
+        "answer": "According to the provided context, the technical skills and qualifications are:\n\nTechnical Skills:\n- Languages: Python, SQL.\n- AI/ML: LLMs, RAG Systems, LangChain, Prompt Engineering.\n\nCore Subjects:\n- DBMS\n- OOPs",
+        "timestamp": "2026-05-30 18:19:54.617573"
+    },
+    {
+        "question": "tell me the technical skills",
+        "answer": "The technical skills mentioned are:\n\n1. Languages: Python, SQL\n2. AI/ML: LLMs, RAG Systems, LangChain, Prompt Engineering\n3. Core Subjects: DBMS, OOPs",
+        "timestamp": "2026-05-30 19:06:30.063565"
+    },
+    {
+        "question": "what is this document",
+        "answer": "Based on the context provided, this document appears to be a personal CV or Resume. It includes information about the individual's education, certifications, achievements, and projects they have worked on in the field of computer science and AI. The language used is professional and highlights the person's skills and expertise in areas such as machine learning, natural language processing, and edge computing.",
+        "timestamp": "2026-05-30 19:35:41.658252"
+    },
+    {
+        "question": "tell me about the document",
+        "answer": "Unfortunately, there is no mention of a specific document in the provided context. The text mentions \"legal/financial documents\" as an area where AI technology could be applied, but it does not specifically describe a document or provide any details about its content or characteristics.",
+        "timestamp": "2026-05-30 19:37:23.561334"
+    },
+    {
+        "question": "tell me about the document",
+        "answer": "Based on the context, I couldn't find any information about a specific document. The text mentions that you have experience with legal/financial documents, but it doesn't provide details about the type of document or its content.\n\nHowever, I can tell you that you seem to have expertise in developing AI-powered systems for document processing and analysis, which includes components like semantic search, summarization, query decomposition, and reasoning agents.",
+        "timestamp": "2026-05-30 19:37:52.167905"
+    },
+    {
+        "question": "tell me about this docume\n",
+        "answer": "Based on the provided context, this document appears to be a personal or professional profile that highlights an individual's skills, achievements, and experience in the field of artificial intelligence (AI) and computer science.\n\nThe document mentions implementation of various AI components such as semantic search, summarization, query decomposition, and reasoning agents. It also discusses a system for optimizing edge nodes in real-time using machine learning models to predict CPU, memory, and network usage.\n\nAdditionally, it highlights the individual's certifications, achievements, and educational background (B.Tech in Computer Science and Engineering with a 71% percentage).\n\nOverall, this document likely serves as an updated resume or CV that showcases the individual's expertise and accomplishments in AI, computer science, and related fields.",
+        "timestamp": "2026-05-31 09:03:40.651110"
+    }
+]
